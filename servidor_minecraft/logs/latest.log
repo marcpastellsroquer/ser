@@ -113,3 +113,5 @@
 [11:34:50] [Server thread/INFO]: /setidletimeout <minutes>
 [11:34:50] [Server thread/INFO]: /stop
 [11:34:50] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[11:44:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:44:52] [Server thread/INFO]: o<--[HERE]
