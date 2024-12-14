@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "219ef6d7-8634-4ec7-9fa4-f02296af0f71",
+    "name": "Hydro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
